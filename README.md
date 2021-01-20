@@ -1,3 +1,3 @@
 # Data_cleaner
 # Open master
-## Ashish Kumar
+## Ashish Kumar BE CS + M.Sc Biology at BITS Pilani
